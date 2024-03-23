@@ -72,7 +72,7 @@ public class User implements Serializable{
 		return phone;
 	}
 
-	public void setPone(String phone) {
+	public void setPhone(String phone) {
 		this.phone = phone;
 	}
 
